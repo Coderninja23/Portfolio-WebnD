@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Coderninja23/Portfolio_webnd/static/css/main.ee80a0ee.css",
+    "main.js": "/Coderninja23/Portfolio_webnd/static/js/main.f6f94066.js",
+    "static/media/Background.jpg": "/Coderninja23/Portfolio_webnd/static/media/Background.7a93310e781313adf3cb.jpg",
+    "static/media/Profile.jpg": "/Coderninja23/Portfolio_webnd/static/media/Profile.985f197802461d0c5293.jpg",
+    "static/media/About.jpg": "/Coderninja23/Portfolio_webnd/static/media/About.bacfd0462ae807199edd.jpg",
+    "index.html": "/Coderninja23/Portfolio_webnd/index.html",
+    "main.ee80a0ee.css.map": "/Coderninja23/Portfolio_webnd/static/css/main.ee80a0ee.css.map",
+    "main.f6f94066.js.map": "/Coderninja23/Portfolio_webnd/static/js/main.f6f94066.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee80a0ee.css",
+    "static/js/main.f6f94066.js"
+  ]
+}
