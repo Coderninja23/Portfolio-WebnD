@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio_webnd/static/css/main.f58d82ea.css",
+    "main.js": "/Portfolio_webnd/static/js/main.270b8249.js",
+    "static/media/Background.jpg": "/Portfolio_webnd/static/media/Background.7a93310e781313adf3cb.jpg",
+    "static/media/Profile.jpg": "/Portfolio_webnd/static/media/Profile.985f197802461d0c5293.jpg",
+    "static/media/About.jpg": "/Portfolio_webnd/static/media/About.bacfd0462ae807199edd.jpg",
+    "index.html": "/Portfolio_webnd/index.html",
+    "main.f58d82ea.css.map": "/Portfolio_webnd/static/css/main.f58d82ea.css.map",
+    "main.270b8249.js.map": "/Portfolio_webnd/static/js/main.270b8249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f58d82ea.css",
+    "static/js/main.270b8249.js"
+  ]
+}
